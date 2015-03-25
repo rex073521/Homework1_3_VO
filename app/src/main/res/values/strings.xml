@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Homework1_3</string>
+
+    <string name="backBtn">上一張</string>
+    <string name="nextBtn">下一張</string>
+    <string name="teamOne">第一隊</string>
+    <string name="teamTwo">第二隊</string>
+    <string name="teamThree">第三隊</string>
+    <string name="teamFour">第四隊</string>
+    <string name="teamFive">第五隊</string>
+    <string name="teamSix">第六隊</string>
+    <string name="teamSeven">第七隊</string>
+    <string name="teamEight">第八隊</string>
+    <string name="teamNine">第九隊</string>
+    <string name="teamTen">第十隊</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
